@@ -35,4 +35,8 @@ it shows the diff on the $commit Id with the parent in its branch
 it deletes the branch, actually removes the labels.
 We can access the banch commits via there Ids untill "git gc"(garbage collector) does not executed.
 
+->> git gc
+it is a garbage collector of git, and we can also explicitly make it to collect garbage.
+
+
 
