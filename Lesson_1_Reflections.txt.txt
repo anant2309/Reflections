@@ -1,0 +1,14 @@
+->> git clone "url of the other repository"
+it is used to clone another repository or download others to your own system
+
+->>git log 
+it gives the recent commits that are recently done
+
+->>git diff $commit Id1 $commit Id2
+it gives the difference b/w the the commits
+
+->> git checkout $commit Id 
+it removes the head from the current head to the last committed.
+
+->> git checkout master
+it rediscovers the commit ids to original states i.e the detached head while working with chekout are restotered.
