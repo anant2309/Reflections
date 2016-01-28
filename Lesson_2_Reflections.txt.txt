@@ -16,3 +16,12 @@ it gives the differences b/w the working directory files and the staged files
 ->> git diff --staged
 it gives the differences b/w the staged files and the commited ones present in the repository
 
+->> git branch
+it will  show the branches if any otherwise master i.e. the default
+
+->> git branch $name
+it will create a new brach with the $name having same as the  master
+
+->> git checkout $Branch name
+it will move the control to the $Branch name 
+
