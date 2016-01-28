@@ -4,3 +4,6 @@ creates a git repository
 used to add files to your repository,that you want to commit (staging area)
 ->> git status
 it gives the status of the git repository
+->> git commit || git commit - m "message for your commit"
+it is used to comit the  files that have been added in the staging area
+
