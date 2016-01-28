@@ -1,9 +1,18 @@
 ->> git init
 creates a git repository
-->> git add
-used to add files to your repository,that you want to commit (staging area)
+
+->> git add $file name
+used to add $file to staging area,that you want to commit (repository)
+
 ->> git status
 it gives the status of the git repository
+
 ->> git commit || git commit - m "message for your commit"
 it is used to comit the  files that have been added in the staging area
+
+->> git diff
+it gives the differences b/w the working directory files and the staged files
+
+->> git diff --staged
+it gives the differences b/w the staged files and the commited ones present in the repository
 
