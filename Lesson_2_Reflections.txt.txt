@@ -2,3 +2,5 @@
 creates a git repository
 ->> git add
 used to add files to your repository,that you want to commit (staging area)
+->> git status
+it gives the status of the git repository
