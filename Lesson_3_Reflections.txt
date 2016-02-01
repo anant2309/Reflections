@@ -1,5 +1,18 @@
 ->> git remote 
+
 It is used to check the available remote for the repository.
 
-->> git remote add $name $Link
+
+
+->> git remote add/remove $name $Link
+ 
 It definse the remote with $name and on the $link.
+
+
+->> git push/pull $remotename $Link
+By this w can push and pull the repository content to keep you updated.
+
+PUSH can be used when you have updated your repository and want to update your github diectory. then you can push the repository content to GitHub.
+
+PULL can be used to keep updated your local repository. You can pull the GitHub content if you think, it is an aggreable change to the repository.
+ 
