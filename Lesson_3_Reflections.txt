@@ -1,0 +1,5 @@
+->> git remote 
+It is used to check the available remote for the repository.
+
+->> git remote add $name $Link
+It definse the remote with $name and on the $link.
